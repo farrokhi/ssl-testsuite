@@ -2,7 +2,7 @@
 
 # TODO: add preflight check (minimum requirements)
 
-SITE_LIST="www.kismetwireless.net macupdate.com github.com google.com svn.nmap.org news.ycombinator.com www.ripe.net login.yahoo.com"
+SITE_LIST="www.kismetwireless.net macupdate.com github.com google.com svn.nmap.org news.ycombinator.com www.ripe.net login.yahoo.com bitbucket.org"
 FILTER=1
 ENVIRON="no-filter"
 [ $FILTER -gt 0 ] && ENVIRON="filter"
